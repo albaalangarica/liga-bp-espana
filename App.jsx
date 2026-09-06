@@ -1,6 +1,6 @@
 import React, {useMemo, useState} from 'react'
 import { Trophy, Map, CalendarDays, Users, Mic2, ChevronRight, Search, Menu, X, Crown } from 'lucide-react'
-import data from './data/demo'
+import data from './demo'
 
 const nav = [
   ['Inicio','inicio'],['Clasificación','clasificacion'],['Regiones','regiones'],
